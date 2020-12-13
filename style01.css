@@ -14,6 +14,7 @@
 
 .navbar {
     padding-top: 20px;
+    
 }
 
 .nav-item {
@@ -23,13 +24,13 @@
 }
 
 .nav-link {
-    /* color: #fff !important;
+    color: #000000 !important;
     font-weight: bold;
-    font-size: 12px !important;
+    font-size: 16px !important;
     padding: 0 0 5px 0 !important;
-    display: unset !important; */
+    display: unset !important;
 
-    color:#000000;
+    /* color:#000000;
     background:#e6e6e6;
     text-decoration:none;
     padding:16px 80px;
@@ -40,7 +41,7 @@
     font-weight:600;
     margin: 0px 30px 0px 20px;
     border:1 px solid;
-    background-color: rgba(255, 255, 255,0.2);
+    background-color: rgba(255, 255, 255,0.2); */
 
 
 }
@@ -62,11 +63,11 @@
 }
 
 .active-home {
-    border-bottom: 2px #fff solid;
+    border-bottom: 5px #4d4dff solid;
 }
 
 .nav-link:hover {
-    border-bottom: 2px solid #fff;
+    border: 2px solid #fff;
 }
 
 .banner {
